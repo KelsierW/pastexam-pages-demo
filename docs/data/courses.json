@@ -1,0 +1,202 @@
+[
+  {
+    "id": "113",
+    "name": "微積分",
+    "category": "freshman"
+  },
+  {
+    "id": "114",
+    "name": "電子學(一)",
+    "category": "freshman"
+  },
+  {
+    "id": "115",
+    "name": "普通物理學",
+    "category": "freshman"
+  },
+  {
+    "id": "116",
+    "name": "計算機概論",
+    "category": "freshman"
+  },
+  {
+    "id": "117",
+    "name": "電子學實驗(一)",
+    "category": "freshman"
+  },
+  {
+    "id": "118",
+    "name": "電磁學(一)",
+    "category": "freshman"
+  },
+  {
+    "id": "119",
+    "name": "量子力學(一)",
+    "category": "freshman"
+  },
+  {
+    "id": "120",
+    "name": "專題演講",
+    "category": "freshman"
+  },
+  {
+    "id": "121",
+    "name": "半導體物理及元件(一)",
+    "category": "freshman"
+  },
+  {
+    "id": "122",
+    "name": "光電子學",
+    "category": "freshman"
+  },
+  {
+    "id": "123",
+    "name": "光學實驗",
+    "category": "freshman"
+  },
+  {
+    "id": "84",
+    "name": "電子學(一)",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "85",
+    "name": "電路與電子學(一)",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "86",
+    "name": "電路與電子學(二)",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "87",
+    "name": "分析導論(一)",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "88",
+    "name": "微分方程",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "89",
+    "name": "有機化學(二)",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "90",
+    "name": "基礎圖論",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "112",
+    "name": "電子與光子學程（Demo）",
+    "category": "interdisciplinary"
+  },
+  {
+    "id": "91",
+    "name": "音樂理論導論",
+    "category": "general"
+  },
+  {
+    "id": "92",
+    "name": "統計學",
+    "category": "general"
+  },
+  {
+    "id": "93",
+    "name": "經濟學概論",
+    "category": "general"
+  },
+  {
+    "id": "94",
+    "name": "全球化與兩岸關係",
+    "category": "general"
+  },
+  {
+    "id": "95",
+    "name": "地球科學概論",
+    "category": "general"
+  },
+  {
+    "id": "96",
+    "name": "日本文化論",
+    "category": "general"
+  },
+  {
+    "id": "97",
+    "name": "營建管理",
+    "category": "general"
+  },
+  {
+    "id": "98",
+    "name": "法學緒論",
+    "category": "general"
+  },
+  {
+    "id": "99",
+    "name": "財務管理",
+    "category": "general"
+  },
+  {
+    "id": "100",
+    "name": "伊斯蘭文明",
+    "category": "general"
+  },
+  {
+    "id": "101",
+    "name": "投資學",
+    "category": "general"
+  },
+  {
+    "id": "102",
+    "name": "會計學(一)",
+    "category": "general"
+  },
+  {
+    "id": "103",
+    "name": "會計學(二)",
+    "category": "general"
+  },
+  {
+    "id": "104",
+    "name": "財務工程導論",
+    "category": "general"
+  },
+  {
+    "id": "105",
+    "name": "普通心理學",
+    "category": "general"
+  },
+  {
+    "id": "106",
+    "name": "統計學(一)",
+    "category": "general"
+  },
+  {
+    "id": "107",
+    "name": "統計學(二)",
+    "category": "general"
+  },
+  {
+    "id": "108",
+    "name": "邏輯學",
+    "category": "general"
+  },
+  {
+    "id": "109",
+    "name": "日文(二)",
+    "category": "general"
+  },
+  {
+    "id": "110",
+    "name": "期貨與選擇權",
+    "category": "general"
+  },
+  {
+    "id": "111",
+    "name": "公司法",
+    "category": "general"
+  }
+]
